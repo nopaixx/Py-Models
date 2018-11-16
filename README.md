@@ -7,5 +7,5 @@ Model2.-Datasouce Kaggle Tag Salt competition. Satellite image segmentation SALT
 
 Model3.-Simple TF-Keras binary image classification 
 
-Model3.-Challenger kaggle Mercari position 300 of 2300, RNN(Layer LSTM) price prediction
+Model4.-Challenger kaggle Mercari position 300 of 2300, RNN(Layer LSTM) price prediction
 
