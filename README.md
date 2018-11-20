@@ -10,3 +10,5 @@ Model3.-Simple TF-Keras binary image classification
 Model4.-Challenger kaggle Mercari position 300 of 2300, RNN(Layer LSTM) price prediction
 
 Model5.-Facebook research FastText library example.ipynb
+
+Model6.-Kmeans class discover plus RNN text sequences text classification.ipynb
